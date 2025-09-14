@@ -169,13 +169,12 @@ main #img5{
     
 } 
 main .mydiv6{
-    height: 800px;
-    margin-top:200px ;
-    margin-bottom:100px ;
+    
+    
 }
 main .mydiv7{
-    background-color: #f3f4fb;
-    height: 700px;
+    
+    
     
 }
 main .mydiv14{
@@ -185,50 +184,36 @@ main .mydiv14{
 
 .mydiv8{
     border-top:2px solid #7a48df ;
-    padding: 10px;
-    margin: 10px;
-    width: 300px;
-    height: 300px;
-     transform: translateX(-130px);
+    
       background-color: white;
+      transform: translateX(-30px);
 
 }
 
 .mydiv9{
     border-top:2px solid #7a48df ;
-    padding: 10px;
-    margin: 10px;
-    width: 300px;
-    height: 300px;
-    transform: translateX(-120px);
+  
     background-color: white;
    
 
 }
 .mydiv10{
     border-top:2px solid #7a48df ;
-    padding: 10px;
-    margin: 10px;
-    width: 300px;
-    height: 300px;
-     transform: translateX(-130px);
+   
       background-color: white;
+      transform: translateX(-30px);
 
 }
 .mydiv11{
     
     border-top:2px solid #7a48df ;
-    padding: 10px;
-    margin: 10px;
-    width: 300px;
-    height: 300px;
-     transform: translateX(-120px);
+    
     background-color: white;
     
 
 }
 .sec3{
-    height: 800px;
+    background: linear-gradient(to right,#f3f4fb 60% ,white 40%);
 }
 
 .sec5{
